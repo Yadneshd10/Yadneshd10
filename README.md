@@ -3,7 +3,7 @@
 - 💻 I'm looking for a Summer Internship in Data Science and Analytics domain.
 - 🌱 I’m currently learning Data Science and Machine Learning from Youtube, Coursera, NPTEL and through Projects.
 
-# 🔗 Connect me on:
+# 🔗 Connect with me on:
 - Linkedin: www.linkedin.com/in/yadneshpotdar 
 <!---
 Yadneshd10/Yadneshd10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
